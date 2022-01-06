@@ -1,0 +1,14 @@
+.btn-verde {
+  color: white;
+  border-radius: 30px;
+  padding: 20px 25px;
+  background-color: #1EDD88;
+  transition: background 0.3s ease;
+  font-size: 20px;
+}
+
+.btn-verde:hover {
+  opacity: 1;
+  text-decoration: none;
+  color: #999999;
+}

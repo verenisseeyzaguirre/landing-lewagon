@@ -1,0 +1,49 @@
+
+
+/* footer {
+  background-color: #4c4c78;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+}
+
+footer p{
+  margin: 0;
+  color: white;
+  font-weight: 500;
+  padding: 15px 0;
+} */
+
+.container-footer {
+  background-color: #4c4c78;
+  margin: 0 auto;
+  padding: 15px 0;
+  text-align: center;
+  width: 100%;
+}
+
+.rrss {
+  margin: 0;
+}
+
+.rrss li {
+  display: inline;
+  padding: 0 5px;
+  font-size: 30px;
+}
+
+.rrss li a {
+  color: #1EDD88;
+}
+
+.rrss li a:hover {
+  color: #2ead74;
+}
+
+
+@media (min-height: 900px) {
+  .container-footer {
+    position: absolute;
+    bottom: 0;
+  }
+}
